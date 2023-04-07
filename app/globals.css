@@ -6,7 +6,6 @@
 
 @layer base {
     html {
-        @apply bg-gray-800;
         @apply text-white text-lg;
         font-family: 'Raleway', sans-serif;
     }

@@ -17,6 +17,7 @@ export default function Home() {
       <h1 className="text-[#32a89e] ">Custom color</h1>
       <h1 className="text-vuejs mb-2">Custom Color on Config</h1>
       <h1 className="text-xs lg:text-2xl">Text Size</h1>
+    
     </>
   );
 }
